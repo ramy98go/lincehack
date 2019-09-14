@@ -13,4 +13,4 @@ Educacion para todos, porque cualquiera puede meterse a estudiar
 * GitHub
 
 ## Selecciona Lista de Tareas
-[] Nombre de la tarea
+- [x] Nombre de la tarea
